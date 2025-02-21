@@ -11,7 +11,7 @@ Score $10M per enemy; win at $1B.
 Lose? Press 'R' to restart.
 Files: index.html, game.js, hero.png, enemy.png, powerup.png, shoot.wav, music.mp3.
 How to Play
-Clone this repo: git clone https://github.com/[YourUsername]/DogeDefender-AI-Battle.git
+
 Open index.html in a modern browser (Chrome, Firefox, etc.).
 Dodge, shoot, and aim for $1B!
 Note: You’ll need the 5 asset files (listed above) in the same directory. Placeholder assets work if you don’t have custom ones—swap in your own Doge-themed PNGs and sounds!
