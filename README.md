@@ -12,13 +12,10 @@ Power-ups add extra bullets per shot.
 Score $10M per enemy; win at $1B.
 Lose? Press 'R' to restart.
 Files: index.html, game.js, hero.png, enemy.png, powerup.png, shoot.wav, music.mp3.
-
 How to Play
 Open index.html in a modern browser (Chrome, Firefox, etc.).
 Dodge, shoot, and aim for $1B!
-
 Note: You’ll need the 5 asset files (listed above) in the same directory. Placeholder assets work if you don’t have custom ones—swap in your own Doge-themed PNGs and sounds!
-
 The AI Battle
 I gave each AI the same prompt: build "Doge Defender" with minimal files and specific mechanics. Here’s how they stacked up:
 
