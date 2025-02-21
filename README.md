@@ -18,10 +18,14 @@ Open index.html in a modern browser (Chrome, Firefox, etc.).
 Dodge, shoot, and aim for $1B!
 
 Note: You’ll need the 5 asset files (listed above) in the same directory. Placeholder assets work if you don’t have custom ones—swap in your own Doge-themed PNGs and sounds!
+
 The AI Battle
 I gave each AI the same prompt: build "Doge Defender" with minimal files and specific mechanics. Here’s how they stacked up:
+
 Grok 3: The champ! Delivered clean, functional code with almost no edits needed. Stuck to the brief, no fluff—pure efficiency.
+
 ChatGPT: Solid effort, but added extra effects I didn’t ask for. Needed more trimming to match the spec.
+
 DeepSeek: Decent, but required several fixes—logic bugs and stray features slowed it down.
 Check the code in game.js (Grok 3’s version here) and the ai-versions/ folder for ChatGPT and DeepSeek attempts (if you include them).
 
